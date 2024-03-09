@@ -1,0 +1,5 @@
+Bill breakdown:
+coke:                     ...$2.99
+pizza:                    ...$9.99
+tip:                      ...$2
+total:                    ...$14.98
